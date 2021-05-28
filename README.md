@@ -25,9 +25,6 @@ Finally, start Jupyter:
 
     $ jupyter notebook
 
-If you need further instructions, read the [detailed installation instructions](INSTALL.md).
-
-# FAQ
 
 **Which Python version should I use?**
 
