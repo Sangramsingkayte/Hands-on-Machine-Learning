@@ -6,17 +6,7 @@ python.
 
 ## Quick Start
 
-### Just want to quickly look at some notebooks, without executing any code?
-
-Browse this repository using [jupyter.org's notebook viewer](https://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb):
-<a href="https://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
-
-_Note_: [github.com's notebook viewer](index.ipynb) also works but it is slower and the math equations are not always displayed correctly.
-
-### Want to run this project using a Docker image?
-Read the [Docker instructions](https://github.com/ageron/handson-ml/tree/master/docker).
-
-### Want to install this project on your own machine?
+### Want to install this repository on your own machine?
 
 Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)), [git](https://git-scm.com/downloads), and if you have a TensorFlow-compatible GPU, install the [GPU driver](https://www.nvidia.com/Download/index.aspx), as well as the appropriate version of CUDA and cuDNN (see TensorFlow's documentation for more details).
 
